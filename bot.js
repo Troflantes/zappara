@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 //PREFIX
-var prefix = 'z/';
+var prefix = 's/';
 
 //TOKEN
 client.login(process.env.BOT_TOKEN);
